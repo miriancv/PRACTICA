@@ -1,3 +1,5 @@
+
+..................................................................................................................................................
 CRONTAB
 
 El comando crontab se utiliza en sistemas UNIX para programar la ejecución de otros comandos, es decir, para automatizar tareas. Podemos ver los crontabs que se están programados y también editarlos, lógicamente.
